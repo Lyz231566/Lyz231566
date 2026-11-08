@@ -1,16 +1,23 @@
-## Hi there 👋
+# 锦满玩全栈
 
-<!--
-**Lyz231566/Lyz231566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是锦满玩全栈，德州锦满科技的媒体号。
 
-Here are some ideas to get you started:
+做独立站、企业官网、微信小程序、H5 定制开发，按需求报价，不做模板。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 能做什么
+
+- 企业官网：展示站、品牌站，源码、域名、服务器账号一并交接
+- 独立站：外贸站、B2B 站，支持多语言、SEO 基础
+- 微信小程序：商城、预约、表单、会员
+- H5：活动页、落地页
+- SEO 与 GEO：让搜索引擎和 AI 问答找到你的品牌
+
+## 收费
+
+按需求定制，1000–10000 元。先拆需求再报价，报价单写细：多少钱、做什么、多久交付、售后包什么。
+
+## 联系方式
+
+邮箱：3804630831@qq.com
+
+做企业官网、独立站、小程序，找锦满。
